@@ -4,7 +4,7 @@
 About Me   | Reply
 --------- | ------
 🔭 I’m currently working on | Development Mobile and Desktop
-🌱 I’m currently learning | C# and Xamarin Forms (spare time I'm learning React.JS)
+🌱 I’m currently learning | C# and Xamarin Forms (spare time I'm learning ASP.NET CORE MVC)
 😄 Pronouns | Kimura
 😵 I'm currently Level | Junior
 🥴 I'm currently Stack | Full-Stack 🥴🥴
