@@ -7,7 +7,7 @@ About Me   | Reply
 🌱 I’m currently learning | C# and Xamarin Forms (spare time I'm learning ASP.NET CORE MVC)
 😄 Pronouns | Kimura
 😵 I'm currently Level | Junior
-🥴 I'm currently Stack | Full-Stack 🥴🥴
+🥴 I'm currently Stack | Back-End/Mobile 🥴🥴
 
 
 <div align="center">
